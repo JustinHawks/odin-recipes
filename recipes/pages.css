@@ -1,0 +1,29 @@
+* {
+    font-family: 'Helvetica';
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+
+}
+
+.steak-img {
+    height: auto;
+    width: 400px;
+    border-radius: 5%;
+    
+}
+
+.spaghetti-img {
+    height: auto;
+    width: 400px;
+    border-radius: 5%
+}
+
+.ramen-img {
+    height: auto;
+    width: 600px;
+    border-radius: 5%
+}
